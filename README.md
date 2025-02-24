@@ -18,8 +18,8 @@ To support real-world railway operations, various SQL queries and procedures wer
 The project demonstrates a strong understanding of relational database concepts  while ensuring data integrity, security , and optimized query performance . The implementation of efficient indexing and query optimization techniques ensures scalability, making the system capable of handling large volumes of data  and concurrent user requests.
 
 ### 🛠️ Technology Stack
-Database: PostgreSQL 🐘
-Schema Design: Entity-Relationship Modeling 📌
-Query Language: SQL (Data Definition & Manipulation) 💾
-Tools Used: pgAdmin, SQL Shell (psql), and ER diagramming tools 🖥️
-This project serves as a foundation for a real-world railway management system 🚉, providing a structured approach to data handling and efficient query execution. Future enhancements could include stored procedures, triggers, advanced analytics 📊, and integration with a web-based front-end 🌐 for real-time interactions.
+Database: PostgreSQL  
+Schema Design: Entity-Relationship Modeling   
+Query Language: SQL (Data Definition & Manipulation)   
+Tools Used: pgAdmin, SQL Shell (psql), and ER diagramming tools   
+
